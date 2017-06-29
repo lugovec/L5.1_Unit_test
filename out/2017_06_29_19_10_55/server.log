@@ -1,0 +1,6 @@
+[06-29 19:10:56,305, 1575] example.Main Starting at http://127.0.0.1:8080
+[06-29 19:10:56,768, 2038] example.Main Server started
+[06-29 19:11:05,104, 10374] servlets.HomePageServlet Limit: 10. Count 0
+[06-29 19:11:05,104, 10374] servlets.HomePageServlet User pass
+[06-29 19:11:11,898, 17168] servlets.HomePageServlet Limit: 10. Count 1
+[06-29 19:11:11,898, 17168] servlets.HomePageServlet User pass
